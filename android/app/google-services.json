@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943911181329",
+    "project_id": "mars-project-a4037",
+    "storage_bucket": "mars-project-a4037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943911181329:android:d0c44a15501b3a97cde5b0",
+        "android_client_info": {
+          "package_name": "com.mycompany.instantproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4yd7rahn88GJOQsFJ9IHYj81PpvyKM2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943911181329:android:af3106e123b4d029cde5b0",
+        "android_client_info": {
+          "package_name": "com.mycompany.projectinstant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4yd7rahn88GJOQsFJ9IHYj81PpvyKM2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
